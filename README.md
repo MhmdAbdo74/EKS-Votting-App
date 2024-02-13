@@ -258,6 +258,8 @@ Generate the Frontend URL for browsing. In the terminal run the following comma
 echo http://$FRONTEND_ELB_PUBLIC_FQDN
 ```
 
+![2](https://github.com/MhmdAbdo74/EKS-Votting-App/assets/94086189/59bc0319-0026-43a7-b97b-6d08ab7f8fc5)
+
 Test the full end-to-end cloud native application
 
  Using your local workstation's browser - browse to the URL created in the previous output.
