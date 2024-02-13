@@ -2,6 +2,8 @@
 
 # Cloud-Native Web Voting Application with Kubernetes
 
+(https://github.com/MhmdAbdo74/EKS-Votting-App/assets/94086189/aaba1732-811a-438a-a9e9-59e3886d68c1)
+
 This cloud-native web application is built using a mix of technologies. It's designed to be accessible to users via the internet, allowing them to vote for their preferred programming language out of six choices: C#, Python, JavaScript, Go, Java, and NodeJS.
 
 ## Technical Stack
