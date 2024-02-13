@@ -105,11 +105,11 @@ Clone the github repo
 git clone https://github.com/N4si/K8s-voting-app.git
 ```
 
-**Create CloudChamp Namespace**
+**Create eksproject Namespace**
 ```
-kubectl create ns cloudchamp
+kubectl create ns eksproject
 
-kubectl config set-context --current --namespace cloudchamp
+kubectl config set-context --current --namespace eksproject
 ```
 
 **MONGO Database Setup**
